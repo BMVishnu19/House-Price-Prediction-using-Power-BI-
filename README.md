@@ -29,8 +29,8 @@ The dashboard is structured across five interactive pages, each focusing on a di
 ### 4. Price Drivers and Correlations Analysis
 * **Purpose:** Uses advanced analytics to uncover the primary factors influencing property prices and their relationships.
 * **Visualizations & Insights:**
-  * **Decomposition Tree Visual (Likely Top-Right, not fully visible but common pairing with Key Influencers):** (Implied by analysis). Offers an interactive, hierarchical breakdown of a key metric (e.g., Average Price) by various dimensions, allowing for flexible drill-down to understand the contribution of different factors to the overall price.
- * **Scatter Plot: Property Price vs. Area by No. of Bedroom:** Visualizes the relationship between `Area` (X-axis) and `Price` (Y-axis), with `City` determining the color of points and `No. of Bedrooms` determining the size of points.
+   * * **Decomposition Tree Visual (Likely Top-Right, not fully visible but common pairing with Key Influencers):** (Implied by analysis). Offers an interactive, hierarchical breakdown of a key metric (e.g., Average Price) by various dimensions, allowing for flexible drill-down to understand the contribution of different factors to the overall price.
+   * * **Scatter Plot: Property Price vs. Area by No. of Bedroom:** Visualizes the relationship between `Area` (X-axis) and `Price` (Y-axis), with `City` determining the color of points and `No. of Bedrooms` determining the size of points.
         * **Correlation:** A visible positive trend suggests that larger areas generally correlate with higher prices.
         * **Outliers:** Helps spot unusually expensive or inexpensive properties for their size or bedroom count.
         * **City & Bedroom Impact:** Different colored clusters and varying bubble sizes help compare price-area relationships across cities and for different bedroom configurations.
