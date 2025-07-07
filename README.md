@@ -22,9 +22,9 @@ The dashboard is structured across five interactive pages, each focusing on a di
 ### 3. Key Amenities Analysis
 * **Purpose:** Explores the role and impact of various amenities on property characteristics.
 * **Visualizations & Insights:**
-      * **Ribbon Chart: Amenity Presence Ranking by City:** Shows how different amenity types rank in terms of presence or impact across various cities. It identifies the most common or prevalent amenities and reveals city-specific amenity trends.
-      * **Card Visuals: Count of Amenity Type, Average Amenities per Property:** Displays summary counts, indicating the variety of amenities (e.g., 12 distinct types) and the average number of amenities a property typically offers (e.g., 2.51K, likely indicating 2.51 amenities per property). This suggests the level of development or luxury in the market.
-    * **Table Visual (Sum of Has Amenity with conditional formatting):** (Not fully visible in provided screenshots, but implied by analysis). Provides a detailed table listing each amenity type and the total count of properties possessing that amenity, often with visual highlighting for higher/lower counts. This allows for quick identification of prevalent or rare amenities.
+   * **Ribbon Chart: Amenity Presence Ranking by City:** Shows how different amenity types rank in terms of presence or impact across various cities. It identifies the most common or prevalent amenities and reveals city-specific amenity trends.
+   * **Card Visuals: Count of Amenity Type, Average Amenities per Property:** Displays summary counts, indicating the variety of amenities (e.g., 12 distinct types) and the average number of amenities a property typically offers (e.g., 2.51K, likely indicating 2.51 amenities per property). This suggests the level of development or luxury in the market.
+   * **Table Visual (Sum of Has Amenity with conditional formatting):** (Not fully visible in provided screenshots, but implied by analysis). Provides a detailed table listing each amenity type and the total count of properties possessing that amenity, often with visual highlighting for higher/lower counts. This allows for quick identification of prevalent or rare amenities.
 
 ### 4. Price Drivers and Correlations Analysis
 * **Purpose:** Uses advanced analytics to uncover the primary factors influencing property prices and their relationships.
